@@ -95,6 +95,7 @@
 ### Installation
 
 **1. Clone the repository**
+
 git clone https://github.com/Yashwanth2408/IMARA.git
 cd IMARA
 
@@ -115,6 +116,7 @@ Pull LLM model
 ollama pull llama3.2:3b
 
 **3. Frontend Setup**
+
 cd frontend
 npm install
 
