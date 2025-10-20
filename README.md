@@ -169,31 +169,7 @@ autonomous driving perception systems 2024
 ---
 
 ## 🏗️ Architecture
-┌─────────────────┐
-│ React UI │ (Frontend - Port 5173)
-│ Framer Motion │
-│ TailwindCSS │
-└────────┬────────┘
-│ WebSocket/HTTP
-│
-┌────────▼─────────────┐
-│ FastAPI Server │ (Backend - Port 8000)
-│ Async WebSockets │
-└────────┬─────────────┘
-│
-├──► 🔍 Researcher Agent
-│ ├─ ArXiv API
-│ ├─ Google Scholar
-│ └─ Quality Metrics
-│
-├──► 💻 Coder Agent
-│ └─ Code Generation (Llama 3.2)
-│
-├──► ✅ Reviewer Agent
-│ └─ Quality Review (Llama 3.2)
-│
-└──► 📊 Presenter Agent
-└─ Report Compilation
+(screenshots/architecture.png)
 
 ---
 
