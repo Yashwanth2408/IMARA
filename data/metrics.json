@@ -1,0 +1,98 @@
+[
+  {
+    "query": "Graph neural networks for NLP",
+    "metrics": {
+      "overall_score": 6.57,
+      "grade": "B",
+      "breakdown": {
+        "recency": 2.7,
+        "relevance": 10.0,
+        "citation_potential": 9.2,
+        "diversity": 4.4
+      },
+      "paper_count": 3,
+      "timestamp": "2025-10-20T17:30:07.085845"
+    },
+    "timestamp": "2025-10-20T17:30:07.085845"
+  },
+  {
+    "query": "multi-agent reinforcement systems",
+    "metrics": {
+      "overall_score": 5.8,
+      "grade": "C",
+      "breakdown": {
+        "recency": 5.3,
+        "relevance": 9.3,
+        "citation_potential": 4.2,
+        "diversity": 4.4
+      },
+      "paper_count": 3,
+      "timestamp": "2025-10-21T03:22:49.826336"
+    },
+    "timestamp": "2025-10-21T03:22:49.826336"
+  },
+  {
+    "query": "Multi-agent Reinforcement Learning Systems",
+    "metrics": {
+      "overall_score": 6.27,
+      "grade": "B",
+      "breakdown": {
+        "recency": 4.7,
+        "relevance": 9.5,
+        "citation_potential": 6.7,
+        "diversity": 4.2
+      },
+      "paper_count": 3,
+      "timestamp": "2025-10-21T03:38:44.693258"
+    },
+    "timestamp": "2025-10-21T03:38:44.693258"
+  },
+  {
+    "query": "LLM-based multi-agent systems 2025",
+    "metrics": {
+      "overall_score": 7.7,
+      "grade": "B+",
+      "breakdown": {
+        "recency": 9.3,
+        "relevance": 7.4,
+        "citation_potential": 8.3,
+        "diversity": 5.8
+      },
+      "paper_count": 3,
+      "timestamp": "2025-10-21T03:47:50.837514"
+    },
+    "timestamp": "2025-10-21T03:47:50.837514"
+  },
+  {
+    "query": "transformer architectures 2024",
+    "metrics": {
+      "overall_score": 7.9,
+      "grade": "B+",
+      "breakdown": {
+        "recency": 8.6,
+        "relevance": 10.0,
+        "citation_potential": 6.8,
+        "diversity": 6.2
+      },
+      "paper_count": 5,
+      "timestamp": "2025-10-21T04:01:43.976337"
+    },
+    "timestamp": "2025-10-21T04:01:43.976337"
+  },
+  {
+    "query": "Large language model agents 2024",
+    "metrics": {
+      "overall_score": 8.6,
+      "grade": "A",
+      "breakdown": {
+        "recency": 8.6,
+        "relevance": 10.0,
+        "citation_potential": 9.0,
+        "diversity": 6.8
+      },
+      "paper_count": 5,
+      "timestamp": "2025-10-21T04:07:36.187539"
+    },
+    "timestamp": "2025-10-21T04:07:36.187539"
+  }
+]
