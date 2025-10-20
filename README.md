@@ -169,7 +169,8 @@ autonomous driving perception systems 2024
 ---
 
 ## 🏗️ Architecture
-(screenshots/architecture.png)
+![](screenshots/architecture.png)
+*Full architecture of IMARA*
 
 ---
 
