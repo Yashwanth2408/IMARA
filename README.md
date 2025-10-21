@@ -353,7 +353,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Yashwanth Balaji]**
+**Yashwanth Balaji**
 - LinkedIn: [linkedin.com/in/yashwanthbalaji](https://www.linkedin.com/in/yashwanthbalaji/)
 - GitHub: [@Yashwanth2408](https://github.com/Yashwanth2408)
 - Email: yashwanthbalaji.2408@gmail.com
